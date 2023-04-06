@@ -4,7 +4,7 @@
 
 
 使用套件cv2、math、chrono、thread、future
-使用梯度下降法，adam優化器，Cross Entropy
+使用梯度下降法，adam優化器，Focal-Loss
 
 
 
